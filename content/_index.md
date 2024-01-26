@@ -219,10 +219,10 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demp" >}} {{< video src="IMG_7571.mp4" >}}
+        {{< gallery album="demp" >}} 
     design:
       columns: '1'
-  # - block: collection
+  # - block: collection {{< video src="IMG_7571.mp4" >}}
   #   id: talks
   #   content:
   #     title: Recent & Upcoming Talks
