@@ -1,30 +1,32 @@
 ---
-title: "An example journal article"
+title: "An efficient and scalable deep learning approach for road damage detection"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Sadra Naddaf-Sh
+- M-Mahdi Naddaf-Sh
+- Amir R Kashani
+- Hassan Zargarzadeh
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+date: "2020-12-10T00:00:00Z"
+doi: "10.1109/BigData50022.2020.9377751"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-12-10T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["Conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "2020 IEEE International Conference on Big Data (Big Data)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Pavement condition evaluation is essential to time the preventative or rehabilitative actions and control distress propagation. Failing to conduct timely evaluations can lead to severe structural and financial loss of the infrastructure and complete reconstructions. Automated computer-aided surveying measures can provide a database of road damage patterns and their locations. This database can be utilized for timely road re-pairs to gain the minimum cost of maintenance and the asphalt's maximum durability. This paper introduces a deep learning-based surveying scheme to analyze the image-based distress data in real-time. A database consisting of a diverse population of crack distress types such as longitudinal, transverse, and alligator cracks, photographed using mobile-device is used. Then, a family of efficient and scalable models that are tuned for pavement crack detection is trained. Proposed models …
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -33,8 +35,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://ieeexplore.ieee.org/abstract/document/9377751
+url_code: 'https://github.com/mahdi65/roadDamageDetection2020'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -45,23 +47,23 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  # focal_point: ""
+  # preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+# projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 {{% callout note %}}

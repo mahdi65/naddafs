@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2024-01-24
 type: landing
 
 sections:
@@ -180,15 +180,15 @@ sections:
       columns: ''
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: true
   # - block: markdown
-    # content:
-    #   title: Gallery
-    #   subtitle: ''
-    #   text: |-
-    #     {{< gallery album="demo" >}}
-    # design:
-    #   columns: '1'
+  #   content:
+  #     title: Gallery
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="demoa" >}}
+  #   design:
+  #     columns: '1'
   # - block: collection
   #   id: featured
   #   content:
@@ -202,18 +202,26 @@ sections:
   #     view: card
   - block: collection
     content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      title: Slected Publications
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
       columns: '2'
       view: citation
+  # - block: markdown
+  #   content:
+  #     title: Gallery
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="demo" >}}
+  #   design:
+  #     columns: '1'
   # - block: collection
   #   id: talks
   #   content:
