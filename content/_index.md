@@ -219,7 +219,8 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demp" >}} 
+        {{< gallery album="demp" >}}
+        {{< video src="IMG_7571.mp4" >}}
     design:
       columns: '1'
   # - block: collection {{< video src="IMG_7571.mp4" >}}
