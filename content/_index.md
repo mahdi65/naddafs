@@ -222,14 +222,14 @@ sections:
         {{< gallery album="demp" >}}
     design:
       columns: '1'
-  - block: markdown
-    content:
-      title: ''
-      subtitle: ''
-      text: |-
-        {{< video src="IMG_7571.mp4" controls="yes" >}}
-    design:
-      columns: '2'
+  # - block: markdown
+  #   content:
+  #     title: ''
+  #     subtitle: ''
+  #     text: |-
+  #       {{< video src="IMG_7571.mp4" controls="yes" >}}
+  #   design:
+  #     columns: '2'
   # - block: collection {{< video src="IMG_7571.mp4" >}}
   #   id: talks
   #   content:
