@@ -219,9 +219,9 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demx" >}} {{< video src="IMG_7571.mp4" >}}
+        {{< gallery album="demp" >}} {{< video src="IMG_7571.mp4" >}}
     design:
-      columns: '2'
+      columns: '1'
   # - block: collection
   #   id: talks
   #   content:
