@@ -220,7 +220,15 @@ sections:
       subtitle: ''
       text: |-
         {{< gallery album="demp" >}}
-        {{< video src="IMG_7571.mp4" >}}
+    design:
+      columns: '1'
+  - block: markdown
+    content:
+      title: 
+      subtitle: ''
+      text: |-
+        {{< video src="IMG_7571.mp4" controls="yes" >}}
+      
     design:
       columns: '1'
   # - block: collection {{< video src="IMG_7571.mp4" >}}
