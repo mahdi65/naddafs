@@ -214,14 +214,14 @@ sections:
     design:
       columns: '2'
       view: citation
-  # - block: markdown
-  #   content:
-  #     title: Gallery
-  #     subtitle: ''
-  #     text: |-
-  #       {{< gallery album="demp" >}} {{< video src="IMG_7571.mp4" >}}
-  #   design:
-  #     columns: '1'
+  - block: markdown
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="demp" >}} {{< video src="IMG_7571.mp4" >}}
+    design:
+      columns: '1'
   # - block: collection
   #   id: talks
   #   content:
