@@ -224,13 +224,12 @@ sections:
       columns: '1'
   - block: markdown
     content:
-      title: 
+      title: ''
       subtitle: ''
       text: |-
         {{< video src="IMG_7571.mp4" controls="yes" >}}
-      
     design:
-      columns: '1'
+      columns: '2'
   # - block: collection {{< video src="IMG_7571.mp4" >}}
   #   id: talks
   #   content:
