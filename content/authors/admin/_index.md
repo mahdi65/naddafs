@@ -124,6 +124,6 @@ highlight_name: true
 ---
 
 I am Mahdi Naddaf. Currently I am working as a research scientist at EnRisk. I was a research scientist at Ford Motor Company, Greenfield Labs, located in Palo Alto, California, United States.
-I was previously a postdoc at Galban Lab, University of Michigan. I completed my Doctoral of Engineering in Electrical Engineering with a focus on Computer Vision (Deep Learning) and Robotics at Lamar University in 2020 under the supervision of Dr. Hassan Zargarzadeh. I got my M.Sc. in Artificial Intelligence at the University of Southampton, the U.K, and a B.Sc. in Electrical Engineering- Control at the Ferdowsi University of Mashhad, Iran.
+I was previously a postdoc at Galban Lab, University of Michigan. I completed my Doctoral of Engineering in Electrical Engineering with a focus on Computer Vision (Deep Learning) and Robotics at Lamar University in 2020 under the supervision of Dr. Hassan Zargarzadeh. I got my M.Sc. in Artificial Intelligence at the University of Southampton, the U.K, and a B.Sc. in Electrical Engineering- Control.
  You are most welcome to check out my research and recent publications.
 {style="text-align: justify;"}
