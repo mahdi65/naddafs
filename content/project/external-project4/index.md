@@ -19,7 +19,7 @@ links:
   - icon: youtube
     icon_pack: fab
     name: Demo
-    url: ''
+    url: 'https://www.youtube.com/watch?v=SGh03B5EEpk&ab_channel=HassanZargarzadeh'
     url_codes: ''
     url_video: 'https://www.youtube.com/watch?v=SGh03B5EEpk&ab_channel=HassanZargarzadeh'
 url_code: ''

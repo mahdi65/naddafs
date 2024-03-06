@@ -18,6 +18,10 @@ links:
     name: News
     url: https://www.lamar.edu/news-and-events/news/2017/02/discovery-channel-captures-lionfish-project.html
     url_codes: ''
+  - icon: youtube
+    icon_pack: fab
+    name: Demo
+    url: https://www.youtube.com/watch?v=j43Og_-d_SQ&ab_channel=HassanZargarzadeh
 url_code: ''
 url_pdf: ''
 url_slides: ''
